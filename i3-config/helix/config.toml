@@ -1,0 +1,6 @@
+theme = "carbon"
+
+[editor]
+line-number = "relative"
+cursorline = true
+bufferline = "always"
