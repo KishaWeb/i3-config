@@ -33,4 +33,4 @@ export CLICOLOR=1
 # Better completion
 zstyle ':completion:*' menu select
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
-fastfetch -l ~/freemasonary.txt
+fastfetch
